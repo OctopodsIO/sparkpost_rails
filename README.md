@@ -1,4 +1,5 @@
 > This is the fork of [sparkpost_rails](https://github.com/the-refinery/sparkpost_rails). Support of Rails 7 is added in here, which is based on [this PR](https://github.com/the-refinery/sparkpost_rails/pull/89).
+> The sparkpost_rails maintainer doesn't seem to respond to the Pullrequests, hence this fork to keep things going for Octopods, for now.
 
 [![Gem Version](https://badge.fury.io/rb/sparkpost_rails.svg)](https://badge.fury.io/rb/sparkpost_rails)
 [![Build Status](https://travis-ci.org/the-refinery/sparkpost_rails.svg?branch=master)](https://travis-ci.org/the-refinery/sparkpost_rails)
